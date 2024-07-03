@@ -1,0 +1,26 @@
+{
+  "name": "nbnews-site",
+  "version": "1.0.0",
+  "description": "nbnews-backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggsheeet/nbnews-site.git"
+  },
+  "keywords": [
+    "nbnews"
+  ],
+  "author": "ggsheeet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ggsheeet/nbnews-site/issues"
+  },
+  "homepage": "https://github.com/ggsheeet/nbnews-site#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
